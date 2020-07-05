@@ -1,0 +1,17 @@
+{
+  "terrain": [
+    {
+      "type": "perlin",
+      "data": {
+        "dimensions": 3
+      }
+    },
+    {
+      "type": "fbm",
+      "data": {
+        "octaves": 4,
+        "frequency": 0.002
+      }
+    }
+  ]
+}
